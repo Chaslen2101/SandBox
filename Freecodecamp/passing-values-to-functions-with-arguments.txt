@@ -1,0 +1,4 @@
+function functionWithArgs(sum1,sum2) {
+console.log(sum1 + sum2);
+}
+functionWithArgs(2,3)
